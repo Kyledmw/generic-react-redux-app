@@ -136,3 +136,6 @@ fabric.properties
 
 # Jest
 /coverage/
+
+# Webpack build dir
+/dist/
