@@ -1,7 +1,7 @@
 {
-  "name": "personal-portfolio-website",
+  "name": "generic-react-redux-app",
   "version": "0.0.0",
-  "description": "Portfolio website that provides information on the various work I am involved in.",
+  "description": "Generic starting project for a react-redux application.",
   "main": "index.js",
   "author": "Kyle Williamson",
   "license": "MIT",

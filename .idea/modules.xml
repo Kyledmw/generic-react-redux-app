@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/personal-portfolio-website.iml" filepath="$PROJECT_DIR$/.idea/personal-portfolio-website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/generic-react-redux-app.iml" filepath="$PROJECT_DIR$/.idea/generic-react-redux-app.iml" />
     </modules>
   </component>
 </project>
